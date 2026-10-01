@@ -17,7 +17,7 @@ st.set_page_config(
     page_icon="🤖",
     layout="centered",
 )
-st.title("💬 AI Chatbot With Aaby")
+st.title("💬 AI Chatbot With RABINDRA")
 
 # initiate chat history
 if "chat_history" not in st.session_state:
