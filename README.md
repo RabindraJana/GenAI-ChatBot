@@ -1,4 +1,4 @@
-# 💬 Gen AI Cloud Chatbot
+# 💬 Gen AI Chatbot
 
 A simple conversational chatbot built with **Streamlit** and **LangChain Groq**, powered by the Groq LLM API.
 
